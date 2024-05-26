@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485954043033",
+    "project_id": "kato-aom891",
+    "storage_bucket": "kato-aom891.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485954043033:android:2f3aa95af2906273578c08",
+        "android_client_info": {
+          "package_name": "com.mycompany.gfsemae"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj3W7VnwTSC2JhZ9ta82oqMFSIESjoKVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
